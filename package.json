@@ -2,9 +2,9 @@
   "name": "ig-ai-chatbot",
   "version": "2.0.0",
   "description": "Production-ready Instagram AI Chatbot using Express, Groq, and Supabase",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node uptime.js & node server.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.8",
